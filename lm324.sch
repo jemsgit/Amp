@@ -11175,9 +11175,9 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 <part name="C1" library="resistor" deviceset="C-EU" device="C0805" value="0.01u"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="R4" library="resistor" deviceset="R-EU_" device="R0805" value="100k"/>
-<part name="R5" library="resistor" deviceset="R-EU_" device="R0805" value="100k"/>
+<part name="R5" library="resistor" deviceset="R-EU_" device="R0805" value="20k"/>
 <part name="C2" library="resistor" deviceset="CPOL-EU" device="E3.5-8" value="10u"/>
-<part name="R6" library="resistor" deviceset="R-EU_" device="R0805" value="10k"/>
+<part name="R6" library="resistor" deviceset="R-EU_" device="R0805" value="50k"/>
 <part name="R7" library="resistor" deviceset="R-EU_" device="R0805" value="6.2k"/>
 <part name="R8" library="resistor" deviceset="R-EU_" device="R0805" value="10k"/>
 <part name="C3" library="resistor" deviceset="CPOL-EU" device="E3.5-8" value="1u"/>
